@@ -3,6 +3,6 @@ module github.com/aarondl/authboss-renderer
 go 1.14
 
 require (
+	github.com/aarondl/authboss/v3 v3.5.1
 	github.com/friendsofgo/errors v0.9.2
-	github.com/aarondl/authboss/v3 v3.0.0-20200703183239-fddf30677c32
 )
